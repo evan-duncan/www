@@ -1,2 +1,3 @@
 # evan-duncan.com
-Personal static site, containerized.
+Personal static site, containerized for development.
+
